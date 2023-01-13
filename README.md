@@ -1,2 +1,2 @@
-# test_cerner_case
-1436289 | How to handle SCM Conflict  is very confusing.
+# Marketplace-OO
+This repo is for development of OO content for Market Place offerings and Integrations with other Providers like WIKI, CSD, JIRA etc
